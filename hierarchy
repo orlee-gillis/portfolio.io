@@ -1,0 +1,317 @@
+/* Hierarchy Exercise Template */
+
+position: relative;
+width: 1582px;
+height: 6100px;
+
+
+
+/* Instructions */
+
+position: absolute;
+width: 1197px;
+height: 76px;
+left: 178px;
+top: 61px;
+
+
+
+/* Use these container */
+
+position: absolute;
+width: 521px;
+height: 23px;
+left: 519px;
+top: 61px;
+
+font-family: ArialMT;
+line-height: normal;
+font-size: 20px;
+text-align: center;
+letter-spacing: -0.4px;
+
+color: #030303;
+
+
+/* Expand the depth of */
+
+position: absolute;
+width: 873px;
+height: 23px;
+left: 344px;
+top: 114px;
+
+font-family: ArialMT;
+line-height: normal;
+font-size: 20px;
+text-align: center;
+letter-spacing: -0.4px;
+
+color: #030303;
+
+
+/* Line */
+
+position: absolute;
+width: 322px;
+height: 3px;
+left: 178px;
+top: 71px;
+
+border: 1px solid #979797;
+
+
+/* Line */
+
+position: absolute;
+width: 321px;
+height: 1px;
+left: 1054px;
+top: 71px;
+
+border: 1px solid #979797;
+
+
+/* Line 2 Copy */
+
+position: absolute;
+width: 5px;
+height: 4421px;
+left: 1018px;
+top: 1162px;
+
+background: rgba(216, 216, 216, 0.9);
+mix-blend-mode: hue;
+border: 1px solid #121B5C;
+
+
+/* 1962 */
+
+position: absolute;
+width: 94px;
+height: 50px;
+left: 974px;
+top: 3374px;
+
+font-family: AvenirNext;
+line-height: normal;
+font-size: 36px;
+
+color: #000000;
+
+
+/* 1967 */
+
+position: absolute;
+width: 94px;
+height: 50px;
+left: 974px;
+top: 3588px;
+
+font-family: AvenirNext;
+line-height: normal;
+font-size: 36px;
+
+color: #000000;
+
+
+/* 1969 */
+
+position: absolute;
+width: 94px;
+height: 50px;
+left: 974px;
+top: 4993px;
+
+font-family: AvenirNext;
+line-height: normal;
+font-size: 36px;
+
+color: #000000;
+
+
+/* h3 */
+
+position: absolute;
+width: 576px;
+height: 165px;
+left: 271px;
+top: 746px;
+
+font-family: AvenirNext;
+line-height: normal;
+font-size: 24px;
+
+color: #4A4A4A;
+
+
+/* body */
+
+position: absolute;
+width: 557px;
+height: 5115px;
+left: 271px;
+top: 911px;
+
+font-family: Avenir Next;
+line-height: normal;
+font-size: 20px;
+
+color: #000000;
+
+
+/* 044585772-pilot-neil-armstrong-and-x-15- */
+
+position: absolute;
+width: 300px;
+height: 235.2px;
+left: -796px;
+top: 3519px;
+
+background: url(Image.png);
+
+
+/* 044612970-apollo-16-duke-craters-edge */
+
+position: absolute;
+width: 3000px;
+height: 3032px;
+left: 5006px;
+top: 1517px;
+
+background: url(Image);
+
+
+/* 044614840-john-f-kennedy-giving-historic */
+
+position: absolute;
+width: 299px;
+height: 299px;
+left: 871px;
+top: 1758px;
+
+background: url(Image.png);
+
+
+/* Rectangle */
+
+position: absolute;
+width: 411px;
+height: 415px;
+left: 780px;
+top: 298px;
+
+background: #F0F2F4;
+mix-blend-mode: normal;
+opacity: 0.66;
+
+
+/* 044606834-seamans-von-braun-and-presiden */
+
+position: absolute;
+width: 3000px;
+height: 2304px;
+left: 5006px;
+top: 1881px;
+
+background: url(Image.png);
+
+
+/* h1 */
+
+position: absolute;
+width: 296px;
+height: 214px;
+left: 871px;
+top: 419px;
+
+font-family: AvenirNext;
+line-height: normal;
+font-size: 56px;
+
+color: #171315;
+
+
+/* 044606834-seamans-von-braun-and-presiden */
+
+position: absolute;
+width: 541px;
+height: 415px;
+left: 250px;
+top: 298px;
+
+background: url(Image.png);
+
+
+/* By JOHN NOBLE WILFOR */
+
+position: absolute;
+width: 205px;
+height: 20px;
+left: 883px;
+top: 664px;
+
+font-family: AvenirNext;
+line-height: 20px;
+font-size: 16px;
+
+color: #4A4A4A;
+
+
+/* 045128337-kennedy-and-shepard-washington */
+
+position: absolute;
+width: 299px;
+height: 342.21px;
+left: 871px;
+top: 1195px;
+
+background: url(Image.png);
+
+
+/* 044590375-buzz-aldrin-moon */
+
+position: absolute;
+width: 297px;
+height: 219px;
+left: 871px;
+top: 5389px;
+
+background: url(Image.png);
+
+
+/* 044591134-apollo-11-mission-image-view-m */
+
+position: absolute;
+width: 300px;
+height: 289.45px;
+left: 868px;
+top: 5062px;
+
+background: url(Image.png);
+
+
+/* Line 2 */
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 539px;
+top: 4150px;
+
+border: 1px solid #979797;
+
+
+/* 1961 */
+
+position: absolute;
+width: 94px;
+height: 50px;
+left: 974px;
+top: 1095px;
+
+font-family: AvenirNext;
+line-height: normal;
+font-size: 36px;
+
+color: #000000;
